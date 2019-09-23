@@ -1,4 +1,4 @@
- grandma = "speak_to_grandma" method.
+ grandma = "speak_to_grandma" 
 
  Whatever you say to grandma, she should respond with
 if  grandma == HUH?! SPEAK UP, SONNY!
