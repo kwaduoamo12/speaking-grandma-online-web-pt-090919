@@ -1,13 +1,13 @@
-# Write a speak_to_grandma method.
+ grandma = "speak_to_grandma" 
 
-# Whatever you say to grandma, she should respond with
-# HUH?! SPEAK UP, SONNY!
-# unless you shout it (type in all capitals).
+ # Whatever you say to grandma, she should respond with
+if  grandma == "I'm going out"
+ puts "HUH?! SPEAK UP, SONNY!"  
 
-# If you shout, she can hear you (or at least she thinks so) 
-# and yells back
+ If grandma == "you shout, she can hear you (or at least she thinks so) 
+ and yells back"
+elsif grandma == "speak_to_grandma"
+ puts NO, NOT SINCE 1938!
 
-# NO, NOT SINCE 1938!
-
-# However if you say 'I LOVE YOU GRANDMA!', she should respond with
-# 'I LOVE YOU TOO PUMPKIN!'
+else However if you say 'I LOVE YOU GRANDMA!', she should respond with
+puts 'I LOVE YOU TOO PUMPKIN!'
