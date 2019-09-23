@@ -2,7 +2,7 @@
 
  Whatever you say to grandma, she should respond with
 if  grandma == HUH?! SPEAK UP, SONNY!
- puts unless you shout it (type in all capitals).
+ puts "HUH?! SPEAK UP, SONNY!" unless 
 
  If grandma == "you shout, she can hear you (or at least she thinks so) 
  and yells back"
